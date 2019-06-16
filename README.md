@@ -19,5 +19,5 @@ The trained model has been deployed in my blog website: https://joldnine.github.
 
 The front-end is hold by Github, while the back-end is deployed in Azure Function App.
 
-A screeshot:
+A screenshot:
 ![alt text](resources/images/demo.png "Demo Screenshot")
