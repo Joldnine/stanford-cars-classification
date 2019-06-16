@@ -10,4 +10,4 @@ Do classification on Stanford Cars dataset.
 ## Deployment
 The trained model has been deployed here: https://joldnine.github.io/#/cars-classification
 
-The front-end is hold by github, while the back-end is deployed in Azure Function App.
+The front-end is hold by Github, while the back-end is deployed in Azure Function App.
