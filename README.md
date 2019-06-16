@@ -1,5 +1,6 @@
 # Stanford Cars Classification
-Notebooks to do classification on Stanford Cars dataset.
+Do classification on Stanford Cars dataset.
+
 # How to evaluate on private dataset
 1. git clone this project and install required packages with the `requirements.txt`.
 2. Put images (must be jpg files) under the folder `./dataset/test/`. Do not forget to remove my sample images before this step.
