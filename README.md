@@ -8,6 +8,9 @@ Do classification on Stanford Cars dataset.
 4. Go through the Jupyter notebook `model-evaluation.ipynb`. It will download other necessary files and run the model on your private test dataset. Eventually, metrics including accuracy and confusion metrics will be presented in the notebook.
 
 ## Deployment
-The trained model has been deployed here: https://joldnine.github.io/#/cars-classification
+The trained model has been deployed in my blog website: https://joldnine.github.io/#/cars-classification
 
 The front-end is hold by Github, while the back-end is deployed in Azure Function App.
+
+Here is the screeshot:
+![alt text](resources/images/demo.png "Demo Screenshot")
