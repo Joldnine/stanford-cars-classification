@@ -10,7 +10,7 @@ Do classification on Stanford Cars dataset.
     ```
 2. Remove my sample images under the folder `./dataset/test/`. Put images (must be jpg files) inside.
 
-3. Paste the fact labels into file `test_labels.txt` with the order of sorted file names in step 2.
+3. Paste the fact labels, ie. y_true, into file `test_labels.txt` with the order of sorted file names in step 2.
 
 4. Go through the Jupyter notebook `model-evaluation.ipynb`. It will download other necessary files and run the model on your private test dataset. Eventually, metrics including accuracy and confusion metrics will be presented in the notebook.
 
