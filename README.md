@@ -1,5 +1,5 @@
 # Stanford Cars Classification
-Do classification on Stanford Cars dataset.
+Do classification on Stanford Cars dataset. The top-1 accuracy on a set of 300 unseen images is about **91%** and the top-5 accuracy is **98.6%**.
 
 ## How to evaluate on private dataset
 1. git clone this project and install required packages with the `requirements.txt`.
