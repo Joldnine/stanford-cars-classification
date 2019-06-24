@@ -17,7 +17,7 @@ Do classification on Stanford Cars dataset. The top-1 accuracy on a unseen image
 ## Deployment
 The trained model has been deployed in my blog website: https://joldnine.github.io/#/cars-classification
 
-The front-end is developped by vuejs and deployed on Github Page; the back-end is deployed in AWS Lambda. Please expect a longer response time (~6s) for the first prediction, because AWS Lambda needs some time do the "cold start". 
+The front-end is developped by vuejs and deployed on Github Page; the back-end is deployed in AWS Lambda. Please expect a longer response time (~6s) for the first prediction, because AWS Lambda needs some time do the "cold start", and the following predictions' response time would be within 800 ms.
 
 Screenshot:
 ![alt text](resources/images/demo.png "Demo Screenshot")
